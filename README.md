@@ -20,7 +20,7 @@ will display the list of bands.
 The createStore method and some basic setup has already been implemented for you.
 
 ## Instructions
-
+ 
 1. You will need to write the `BandsContainer` component. This component should
    act as your connection to the Redux store and should be a child of the App
    component. Any values we want to use from Redux as well as any actions we
